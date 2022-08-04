@@ -10,8 +10,11 @@
   },
   "dependencies": {
     "antd": "^4.22.3",
+    "axios": "^0.27.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "use-debounce": "^8.0.3",
+    "use-google-places-api": "^0.0.10"
   },
   "devDependencies": {
     "@types/react": "^18.0.15",
