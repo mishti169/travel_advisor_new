@@ -1,10 +1,12 @@
-import './App.css'
+import "./App.css";
+import SearchBar from "./components/SearchBar/SearchBar";
 
-const  App = ()=> {
-
+const App = () => {
   return (
-    <div>hello world</div>
-  )
-}
+    <div>
+      <SearchBar />
+    </div>
+  );
+};
 
-export default App
+export default App;
